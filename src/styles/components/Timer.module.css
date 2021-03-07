@@ -1,0 +1,52 @@
+.overlayTimer{
+    background: rgba(242, 243, 245, 0.8);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerTimer{
+    background: var(--white);
+    width: 100%;
+    max-width: 400px;
+    padding: 2rem 3rem;
+    border-radius: 5px;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.65);
+    text-align: center;
+    position: relative;
+}
+
+.containerTimer p{
+    font-size: 1.25rem;
+    color: var(--text);
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+}
+.containerTimer div{
+    display: grid;
+    grid-row-gap: 0.5rem;
+}
+.TimerButton5m{
+    background-color: var(--blue-dark);
+    color: var(--white);
+    height: 2.5rem;
+
+    border: 0;
+    border-radius: 5px;
+    transition: 0.2s;
+}
+.TimerButton5m:hover{
+   filter: brightness(0.9);
+}
+.TimerButton5m span{
+    color: var(--green);
+    position: absolute;
+    right: 15%;
+}
+
+
