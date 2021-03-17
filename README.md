@@ -1,3 +1,45 @@
+<h1 align="center">Moveit</h1>
+
+## Introdução do Projeto
+
+O Moveit é uma aplicação desenvolvida durante o NLW4 da Rocketseat, que tem como objetivo auxiliar as pessoas que ficam muito tempo sentadas na frente do computador.
+
+## Descrição do Problema
+
+O atual estilo de vida das pessoas contribui para que fiquem muito tempo sentadas estudando, trabalhando, dirigindo ou assistindo TV. No entanto, esse estilo de vida contribui para inúmeros problemas de saúde, como dores na coluna, aumento de peso, problemas circulatórios, diabetes, artrite, tendinite, entre outros.
+
+## Solução
+
+Para resolver esse problema, o Moveit foi pensado como um aplicativo de desafios para incentivar os usuários a praticarem exercícios para a saúde. 
+Como forma de aumentar o engajamento o aplicativo foi criado com base no conceito de gamificação, em que o usuário ganha experiência quando completa desafios.
+
+## Descrição do funcionamento
+
+1. O usuário seleciona quanto tempo ele deseja se concentrar na sua tarefa;
+2. O usuário recebe uma experiência simbólica que está condicionada a quantidade de tempo de foco;
+3. O usuário inicia um ciclo com o tempo escolhido;
+4. Após o fim do ciclo, o usuário recebe um desafio;
+5. Usuário pode completar ou falhar no desafio;
+6. Caso complete ele recebe a expriência correspondente e pode selecionar o tempo novamente;
+7. caso ele falhe no desafio, sua experiência não mudará e ele precisa selecionar o tempo novamente.
+
+## Tecnologias Utilizadas
+* HTML
+* CSS
+* Typescript
+* React
+* NextJS
+## Autor
+Toda a aplicação foi desenvolvida durante o NLW4 com auxílio da RocketSeat. Apenas a funcionalidade de selecionar o tempo foi implementada sem auxílio.
+
+<h3>Atenção:O tempo de 5 minutos está definido apenas como 6 segundos para que os usuários possam visualizar a lógica da aplicação sem esperar o tempo total</h3>
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
