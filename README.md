@@ -23,6 +23,8 @@ Como forma de aumentar o engajamento o aplicativo foi criado com base no conceit
 6. Caso complete ele recebe a expriência correspondente e pode selecionar o tempo novamente;
 7. caso ele falhe no desafio, sua experiência não mudará e ele precisa selecionar o tempo novamente.
 
+<img src="http://g.recordit.co/zVEVIBaTVS.gif" width="1800" height="720" />
+
 ## Tecnologias Utilizadas
 * HTML
 * CSS
